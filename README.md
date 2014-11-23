@@ -6,4 +6,4 @@ This folder contains three files for the Getting and Cleaning Data Project:
 	* You will need to have the data file *getdata-projectfiles-UCI HAR Dataset.zip* in the folder from which the command is run. The file can be obtained [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).  
 	* Two data frames are initialized upon running the script (more details can be found in the codebook): 
 		* *data* contains the fully merged data with all mean and standard deviation features for each data point. 
-		* *dataSummary* contains the mean of each feature for each activity/subject combination. 
+		* *summaryData* contains the mean of each feature for each activity/subject combination. 
